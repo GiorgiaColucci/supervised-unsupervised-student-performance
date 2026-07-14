@@ -191,7 +191,6 @@ Everything runs on CPU in a few minutes; there are no external downloads (the da
 - **Giorgia Colucci** — Politecnico di Torino  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Giorgia%20Colucci-0A66C2?logo=linkedin)](https://www.linkedin.com/in/giorgia-colucci)  
 - GitHub: [@GiorgiaColucci](https://github.com/GiorgiaColucci)  
-Machine Learning and Artificial Intelligence coursework project.
 
 ## License
 
